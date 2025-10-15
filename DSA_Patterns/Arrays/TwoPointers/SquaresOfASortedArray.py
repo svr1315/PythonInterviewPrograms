@@ -1,3 +1,6 @@
+"""leetcode #977 : Given an integer array nums sorted
+in non-decreasing order, return an array of the
+squares of each number sorted in non-decreasing order."""
 # time complexity-O(n), space compleity-O(n)
 class Solution:
     def sortedSquares(self, nums: list[int])-> list[int]:
